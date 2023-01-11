@@ -4,6 +4,9 @@ using WebApi.Authorization;
 using WebApi.Helpers;
 using WebApi.Services;
 
+// this
+//https://jasonwatmore.com/post/2022/02/26/net-6-boilerplate-api-tutorial-with-email-sign-up-verification-authentication-forgot-password#postman-register-account
+
 var builder = WebApplication.CreateBuilder(args);
 
 // add services to DI container
